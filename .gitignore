@@ -61,3 +61,7 @@ docs/_build/
 
 # css files
 docs/source/_themes/klink/static/css
+
+# ignore PyCharm and IntelliJ project metadata
+/.idea/
+*.iml
